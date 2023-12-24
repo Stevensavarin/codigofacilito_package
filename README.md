@@ -1,3 +1,3 @@
 ### CodigoFacilito
 
-Este paquete nos permite consumir el API de la plataforma CodigoFacilito
+Este paquete nos permite consumir un API de quotes

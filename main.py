@@ -1,2 +1,5 @@
+from codigofacilito.workshops import unreleased
+
 if __name__ == "__main__":
-    print("Hola estamos aqui")
+    workshops = unreleased()
+    print(workshops)

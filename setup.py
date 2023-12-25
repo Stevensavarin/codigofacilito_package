@@ -4,9 +4,9 @@ from setuptools import setup
 this_directory = Path(__file__).parent
 long_description = (this_directory / "README.md").read_text()
 
-VERSION = '0.0.6'
+VERSION = '0.0.1'
 DESCRIPTION = 'Permite consumir un API de DummyJson'
-PACKAGE_NAME = 'codigofacilitosteven'
+PACKAGE_NAME = 'stevenpackage'
 AUTHOR = 'Steven Savarin'
 EMAIL = 'sawarinsteven@gmail.com'
 GITHUB_URL = 'https://github.com/Stevensavarin/codigofacilito_package'
@@ -37,4 +37,4 @@ setup(
     ],
 )
 
-#Steven
+#Steven Savarin

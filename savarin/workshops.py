@@ -10,5 +10,4 @@ def unreleased():
 
     if response.status_code == 200:
         payload = response.json()
-        #print(type(payload["quotes"]))
         return payload["quotes"]

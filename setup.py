@@ -16,7 +16,7 @@ setup(
     packages = [PACKAGE_NAME],
     entry_points ={
         "console.scripts":
-        ["pysavarin=savarin.__main__:main"]
+        ["pysava=savarin.__main__:main"]
     },
     version = VERSION,
     license='MIT',

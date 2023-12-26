@@ -4,7 +4,7 @@ from setuptools import setup
 this_directory = Path(__file__).parent
 long_description = (this_directory / "README.md").read_text()
 
-VERSION = '0.0.2'
+VERSION = '0.0.3'
 DESCRIPTION = 'Permite consumir un API de DummyJson'
 PACKAGE_NAME = 'savarin'
 AUTHOR = 'Steven Savarin'
